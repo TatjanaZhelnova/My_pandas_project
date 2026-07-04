@@ -194,4 +194,4 @@ for file in apteka_files:
 
     apteka.to_excel(output_file, index=False)
 
-print("Обработка завершена.")
+print("🚀Обработка завершена. Результаты сохранены в папке 'Результат'.")
